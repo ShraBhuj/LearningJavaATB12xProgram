@@ -1,6 +1,6 @@
 package Tasks;
 
-public class task_01_increament {
+public class task_ex_increament {
     public static void main(String[] args) {
         //int i = 11;
 

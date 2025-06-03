@@ -1,6 +1,6 @@
 package Tasks;
 
-public class task_02_Ternary_Op {
+public class Task3_Max_in_3_Numbers {
 
     public static void main(String[] args) {
         int num1=50;
