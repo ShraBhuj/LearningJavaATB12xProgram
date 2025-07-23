@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.ALLTasks;
 
 public class Task_FibonacciSeries {
     public static void main(String[] args) {

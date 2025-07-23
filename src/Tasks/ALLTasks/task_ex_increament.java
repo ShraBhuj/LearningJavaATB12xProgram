@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.ALLTasks;
 
 public class task_ex_increament {
     public static void main(String[] args) {

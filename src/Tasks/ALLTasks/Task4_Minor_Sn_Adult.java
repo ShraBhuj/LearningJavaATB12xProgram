@@ -1,4 +1,4 @@
-package Tasks;
+package Tasks.ALLTasks;
 
 public class Task4_Minor_Sn_Adult {
     public static void main(String[] args) {
